@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Congratulations, Deborah!</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Space+Grotesk:wght@400;500;700&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- GATE: spot-the-graduate intro game. Solving (or skipping) reveals the site. -->
+<div class="gate" id="gate">
+  <div class="gate-inner">
+    <p class="gate-eyebrow">before you come in...</p>
+    <h2 class="gate-title">spot the graduate</h2>
+    <div class="gate-grid" id="gate-grid"></div>
+    <p class="gate-hint" id="gate-hint">&nbsp;</p>
+    <button class="gate-skip" id="gate-skip">skip →</button>
+  </div>
+  <div class="petal-field" id="petal-field" aria-hidden="true"></div>
+</div>
+
+<div id="site" class="site-hidden">
+
+  <header class="hero">
+    <div class="hero-eyebrow">the study group presents</div>
+    <h1 class="hero-title">
+      <span class="line1">Congratulations,</span>
+      <span class="line2">Deborah<span class="hero-comma">.</span></span>
+    </h1>
+    <p class="hero-sub">You made it. Now go be insufferably right about everything, professionally.</p>
+    <div class="hero-cap" aria-hidden="true">🎓</div>
+  </header>
+
+  <section class="traits" id="traits" aria-label="Why we appreciate her">
+    <div class="section-intro">
+      <h2>Why we appreciate her</h2>
+      <p>a few of the reasons, out of many</p>
+    </div>
+    <div class="traits-grid" id="traits-grid"></div>
+  </section>
+
+  <section class="verses" id="verses" aria-label="Verses"></section>
+
+  <section class="stories" id="stories" aria-label="Featured moments">
+    <div class="section-intro">
+      <h2>A few favorite moments</h2>
+      <p>tap through</p>
+    </div>
+    <div class="stories-track" id="stories-track"></div>
+  </section>
+
+  <div class="story-viewer" id="story-viewer" aria-hidden="true">
+    <button class="story-close" id="story-close" aria-label="Close">✕</button>
+    <img class="story-img" id="story-img" alt="">
+    <p class="story-caption" id="story-caption"></p>
+    <button class="story-zone story-zone-left" id="story-prev" aria-label="Previous"></button>
+    <button class="story-zone story-zone-right" id="story-next" aria-label="Next"></button>
+  </div>
+
+  <section class="gallery" id="gallery" aria-label="Photos">
+    <div class="gallery-intro">
+      <h2>She never puts the camera down.</h2>
+      <p>so here's proof she was always behind it, or in front of it</p>
+    </div>
+    <div class="gallery-track" id="gallery-track"></div>
+  </section>
+
+  <section class="marquee" id="marquee" aria-label="People who love her">
+    <div class="marquee-intro">people who love her</div>
+    <div class="marquee-track-wrap">
+      <div class="marquee-track" id="marquee-track"></div>
+    </div>
+  </section>
+
+  <section class="faces" id="faces" aria-label="Friends and family">
+    <div class="section-intro">
+      <h2>Her people</h2>
+      <p>the ones she loves right back</p>
+    </div>
+    <div class="faces-track" id="faces-track"></div>
+  </section>
+
+  <section class="beloved" id="beloved" aria-label="Beloved bible study group">
+    <div class="section-intro">
+      <h2>Beloved</h2>
+      <p>where we all know her from</p>
+    </div>
+    <div class="beloved-row" id="beloved-row"></div>
+  </section>
+
+  <section class="wall-intro">
+    <h2>Everyone had something to say.</h2>
+    <p>so we let them</p>
+  </section>
+
+  <section class="wall" id="wall" aria-label="Messages from friends"></section>
+
+  <footer class="footer">
+    <p>Made with more love than CSS specificity by your study group.</p>
+  </footer>
+
+</div>
+
+<!-- Jump-to-name panel for the message wall -->
+<button class="wall-index-toggle" id="wall-index-toggle">✉ find a note</button>
+<div class="wall-index-panel" id="wall-index-panel"></div>
+
+<!-- Music toggle. Add your own audio file legally at ./song.mp3 -->
+<button class="music-toggle" id="music-toggle" aria-label="Play music">♪</button>
+<audio id="bg-audio" src="song.mp3" loop preload="none"></audio>
+
+<script src="script.js"></script>
+</body>
+</html>
