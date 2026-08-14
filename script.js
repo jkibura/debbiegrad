@@ -50,8 +50,8 @@ const STORIES = [
   { file: "D-friends.jpeg", caption: "She's a good friend" },
   { file: "D-friends2.jpeg", caption: "Spending good time with her friends" },
   { file: "D-preaching.jpeg", caption: "Yes she's a preacher" },
-  { file: "D-ajib1.jpeg", caption: "celeb😝" },
-  { file: "D-ajib2.jpeg", caption: "celeb😝" },
+  { file: "D-Ajib1.jpeg", caption: "celeb😝" },
+  { file: "D-Ajib2.jpeg", caption: "celeb😝" },
   { file: "debs-shorthair😭.jpeg", caption: "Would Park Bo-gum approve?🤷🏾‍♂️" },
 
 ];
