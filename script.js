@@ -39,16 +39,21 @@ const STORIES = [
   { file: "2.jpeg", caption: "" },
   { file: "3.jpeg", caption: "" },
   { file: "4.jpeg", caption: "" },
+  { file: "model.jpeg", caption: "Model! Whueh" },
+  { file: "D-ajib.jpeg", caption: "celeb😝" },
+  { file: "debs-shorthair😭.jpeg", caption: "Would Park Bo-gum approve?🤷🏾‍♂️" },
+
 ];
 
 // -------- 5) CAMERA ROLL (many photos, no limit) --------
 const PHOTOS = [
-  { file: "photo1.jpeg", caption: "study group, week one" },
-  { file: "photo2.jpeg", caption: "3am before the midterm" },
+  { file: "6.jpeg", caption: "the girl herself" },
+  { file: "7.jpeg", caption: "Say cheese!📸" },
   { file: "photo3.jpeg", caption: "the good coffee run" },
   { file: "photo4.jpeg", caption: "finally done" },
-  { file: "D-ajib.jpeg", caption: "celeb😝" },
-  { file: "debs-shorthair😭.jpeg", caption: "Would Park Bo-gum approve?🤷🏾‍♂️" },
+  { file: "D-mwaki.jpeg", caption: "Mwaki, sindio!" },
+  { file: "D-bridegroom.jpeg", caption: "Yeye ni fire, si fire? 😝" },
+
 ];
 
 // -------- 6) PEOPLE WHO LOVE HER (sliding name banner) --------
@@ -76,11 +81,11 @@ const FACES = [
 
 // -------- 8) BELOVED (the bible study group — fixed 3 photos) --------
 const BELOVED = [
-  { file: "Beloved.jpeg", caption: "the guys" },
-  { file: "9.jpeg", caption: "the girls" },
-  { file: "Belovedgirls1.jpeg", caption: "the girls" },
+  { file: "BelovedTheme.jpg", caption: "Beloved" },
+  { file: "Belovedselfie.jpg", caption: "Selfie Uno" },
+  { file: "Belovedgirls1.jpeg", caption: "the girls + logo" },
   { file: "Belovedgirls2.jpeg", caption: "the girls" },
-  { file: "10.jpeg", caption: "all of beloved" },
+  // { file: "10.jpeg", caption: "all of beloved" },
 ];
 
 // -------- 9) MESSAGES (the ~20 notes) --------
