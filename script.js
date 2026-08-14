@@ -83,6 +83,7 @@ const FACES = [
   { file: "D-Ash-Linda.jpeg", caption: "Ash and Linda" },
   { file: "D-Bemmy.jpeg", caption: "Bemmy" },
   { file: "D-Jesse1.jpeg", caption: "Jesse" },
+  { file: "Hope-Feliscia.jpeg", caption: "Hope and Feliscia" },
   { file: "D-Janny.jpeg", caption: "Janny" },
   { file: "D-parents1.jpeg", caption: "Mom and Dad" },
   { file: "D-Linda2.jpeg", caption: "Linda" },
