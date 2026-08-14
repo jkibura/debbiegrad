@@ -36,7 +36,7 @@ const VERSES = [
 // -------- 4) FEATURED MOMENTS (tap-through viewer) --------
 // Pick your 6-10 favorite shots. Captions are optional.
 const STORIES = [
-  { file: "1.jpeg", caption: "Experiment experiment" },
+  { file: "1.jpeg", caption: "Experimenting with poses🤩" },
   { file: "2.jpeg", caption: "Yes, cutie" },
   { file: "3.jpeg", caption: "With Churuu" },
   { file: "D-silly.jpeg", caption: "Being silly 😆" },
