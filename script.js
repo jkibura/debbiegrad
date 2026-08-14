@@ -86,12 +86,16 @@ const FACES = [
   { file: "D-parents1.jpeg", caption: "Mom and Dad" },
   { file: "D-Linda2.jpeg", caption: "Linda" },
   { file: "mom.jpeg", caption: "Mom" },
+  { file: "Feliscia.png", caption: "Feliscia" },
   { file: "3.jpeg", caption: "Hope" },
   { file: "D-White.png", caption: "White" },
   { file: "dad.jpeg", caption: "Dad" },
+  { file: "D-White1.jpeg", caption: "White" },
   { file: "4.jpeg", caption: "Hope" },
+  { file: "Aroche.png", caption: "Aroche" },
   { file: "D-Linda1.jpeg", caption: "Linda" },
   { file: "D-parents2.jpeg", caption: "Love birds" },
+  { file: "Fabian.png", caption: "Fabian" },
 ];
 
 // -------- 8) BELOVED (the bible study group — fixed 3 photos) --------
