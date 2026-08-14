@@ -35,12 +35,22 @@ const VERSES = [
 // -------- 4) FEATURED MOMENTS (tap-through viewer) --------
 // Pick your 6-10 favorite shots. Captions are optional.
 const STORIES = [
-  { file: "1.jpeg", caption: "" },
-  { file: "2.jpeg", caption: "" },
-  { file: "3.jpeg", caption: "" },
-  { file: "4.jpeg", caption: "" },
-  { file: "model.jpeg", caption: "Model! Whueh" },
-  { file: "D-ajib.jpeg", caption: "celeb😝" },
+  { file: "1.jpeg", caption: "Experiment experiment" },
+  { file: "2.jpeg", caption: "Yes, cutie" },
+  { file: "3.jpeg", caption: "With Churuu" },
+  { file: "D-silly.jpeg", caption: "Being silly 😆" },
+  { file: "D-sundaysch1.jpeg", caption: "Just enjoying time with her kids" },
+  { file: "D-standing.jpeg", caption: "Supporting her kids at Carols Sunday (2024)" },
+  { file: "D-sundaysch2.jpeg", caption: "With her Sunday school kids" },
+  { file: "D-church.jpeg", caption: "At church" },
+  { file: "D-sundaysch-squat.jpeg", caption: "So many poses" },
+  { file: "D-sundaysch-pose.jpeg", caption: "She's just a girl!" },
+  { file: "model.jpeg", caption: "She's also a model! Whueh" },
+  { file: "D-friends.jpeg", caption: "She's a good friend" },
+  { file: "D-friends2.jpeg", caption: "Spending good time with her friends" },
+  { file: "D-preaching.jpeg", caption: "Yes she's a preacher" },
+  { file: "D-ajib1.jpeg", caption: "celeb😝" },
+  { file: "D-ajib2.jpeg", caption: "celeb😝" },
   { file: "debs-shorthair😭.jpeg", caption: "Would Park Bo-gum approve?🤷🏾‍♂️" },
 
 ];
@@ -49,10 +59,15 @@ const STORIES = [
 const PHOTOS = [
   { file: "6.jpeg", caption: "the girl herself" },
   { file: "7.jpeg", caption: "Say cheese!📸" },
-  { file: "photo3.jpeg", caption: "the good coffee run" },
-  { file: "photo4.jpeg", caption: "finally done" },
+  { file: "D-black.jpeg", caption: "Black dress" },
+  { file: "D-blue.jpeg", caption: "Rocking in jeans" },
+  { file: "D-polka1.jpeg", caption: "Polka dress?" },
+  { file: "D-polka2.jpeg", caption: "That wink is Dangerous!🥺" },
+  { file: "D-red.jpeg", caption: "Have I seen her on Disney?" },
+  { file: "D-smily.jpeg", caption: "oh, the smile!" },
+  { file: "D-tie.jpeg", caption: "Black and a tie!😌" },
   { file: "D-mwaki.jpeg", caption: "Mwaki, sindio!" },
-  { file: "D-bridegroom.jpeg", caption: "Yeye ni fire, si fire? 😝" },
+  { file: "D-bridegroom.jpeg", caption: "Yeye ni Fire, si Fire? 😝😝" },
 
 ];
 
@@ -68,11 +83,11 @@ const FACES = [
   { file: "D-Bemmy.jpeg", caption: "Bemmy" },
   { file: "D-Jesse1.jpeg", caption: "Jesse" },
   { file: "D-Janny.jpeg", caption: "Janny" },
-  { file: "D-parents.jpeg", caption: "Mom and Dad" },
+  { file: "D-parents1.jpeg", caption: "Mom and Dad" },
   { file: "D-Linda2.jpeg", caption: "Linda" },
   { file: "mom.jpeg", caption: "Mom" },
   { file: "3.jpeg", caption: "Hope" },
-  { file: "D-Linda1.jpeg", caption: "Linda" },
+  { file: "D-White.png", caption: "White" },
   { file: "dad.jpeg", caption: "Dad" },
   { file: "4.jpeg", caption: "Hope" },
   { file: "D-Linda1.jpeg", caption: "Linda" },
@@ -177,8 +192,16 @@ const MESSAGES = [
     message: `Ohhhh it's coming alright!`
   },
   {
-    from: "Malkia",
-    message: `Ohhhh it's coming alright!`
+    from: "MD",
+    message: `Deborah,
+
+I prayed on your birthday that God would keep showing up and showing off in your life. Today, I get to watch that prayer unfold. 
+
+I’m so proud of you; of your heart, your hunger to know God deeply, and the woman you continue to become.
+
+May this be the beginning of so much more. I love you, and I’m so grateful God crossed our paths.
+
+Congratulations, my namesake.`
   },
   {
     from: "Freddie",
