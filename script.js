@@ -22,7 +22,8 @@ const TRAITS = [
   { icon: "✨", title: "Dreamer, ambitiously", text: "She doesn't just imagine a bigger future — she plans toward it out loud, and pulls the rest of us along with her." },
   { icon: "🧠", title: "A genuinely beautiful mind", text: "Organized, thoughtful, and she says exactly what she means — speaking her mind is one of her best qualities." },
   { icon: "🙏", title: "In love with God", text: "Her faith isn't a side note. She reads, she reflects, and she talks about knowing God like He's a close friend — because to her, He is." },
-  { icon: "🎧", title: "Add another trait here", text: "e.g. favorite hobby, what she geeks out about, anything you didn't get to say above." },
+  { icon: "🎬", title: "A hopeless romantic, with excellent taste", text: "She can talk Korean cinema for hours — and somewhere between the dramas and watching her own parents' marriage up close, she built a picture of real love that's set the bar high for the rest of us too." },
+  // { icon: "🎧", title: "Add another trait here", text: "e.g. favorite hobby, what she geeks out about, anything you didn't get to say above." },
 ];
 
 // -------- 3) VERSES --------
