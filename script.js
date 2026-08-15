@@ -248,8 +248,8 @@ I love you,
 Yours Forever (no literally😂),`
   },
   {
-    from: "Eunice",
-    message: `Ohhhh it's coming alright!`
+    from: "With Love, Eunice ❤️",
+    message: `Dearest Debbie congratulations on your well deserved success 🙌 now you have the power n all that it takes to win as many souls to the kingdom as possible do your thing ,wishing you the very best `
   },
   {
     from: "Martin",
