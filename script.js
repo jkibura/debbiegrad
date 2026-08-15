@@ -210,8 +210,42 @@ May this be the beginning of so much more. I love you, and I’m so grateful God
 Congratulations, my namesake.`
   },
   {
-    from: "Freddie",
-    message: `Ohhhh it's coming alright!`
+    from: "Fred♥️",
+    message: `To My Dearest Chinguuuu ♥️🎓
+
+My dearest Chinguuuu ,
+
+Today I looked back at that very first chat that we had on 6th June 2024 and honestly wonder; How did we get here? 🥹❤️
+
+On that day you asked me, “Anyway Fred, can we be friends?” And little did either of us know that your question would become the beginning of something so incredibly precious to me.
+
+From 2 people in the same whatsapp group…to friends…to Beloved…to my Chinguuuu. ❤️
+
+And then there was 'She Said No' where you climbed every mountain and swam every ocean just to be there for me😏🌹. I don't think I'll ever forget that! Because that's who you are to me: Someone whose mere presence feels like love. Someone whose mere presence reminds me of God for GOD IS LOVE! 
+
+Today, as I watch you graduate, my heart is simply so full! I'm proud of the graduate you are, but even more grateful for the person you are! For the love you carry so effortlessly.
+
+Chinguuuu, wherever this beautiful life takes you, please never forget this: you will never have to walk it alone (something you have told me from time immemorial😂, but today allow me to tell you the same🫶🏽)
+
+ _When you're celebrating, I'll celebrate with you.
+When you're hurting, I'll sit with you.
+When you're tired, I'll remind you how far you've come.
+And when you forget how loved you are, I'll remind you😏._ 
+
+Because what else are Chinguuuu's for!❤️
+
+I don't know what the future holds, but I know one thing for certain:
+No matter how many chapters life writes, you'll always have a special place in mine.
+
+Thank you for choosing to be my friend that day, 6th June 2024.
+Thank you for staying.
+Thank you for being you.
+And thank God, for letting our paths cross in the most unexpected way!❤️‍🔥
+
+Congratulations, my sweet Chinguuuu🌹
+
+I love you,
+Yours Forever (no literally😂),`
   },
   {
     from: "Eunice",
