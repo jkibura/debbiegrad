@@ -195,7 +195,7 @@ const MESSAGES = [
   },
   {
     from: "Kipsang",
-    message: `Ohhhh it's coming alright!`
+    message: `Congratulations on your achievment Debbiee🥳I’m so proud of you and everything you’ve worked for. You deserve every bit of this success! Your hard work and dedication truly paid off. Wishing you continued success in this new chapter.🥳`
   },
   {
     from: "MD",
@@ -261,7 +261,13 @@ Yours Forever (no literally😂),`
   },
   {
     from: "Linda",
-    message: `Ohhhh it's coming alright!`
+    message: `Girl, look at you!!! 😭😂🎓 From “I’m just doing my Masters” to MASTER OF THEOLOGY! 🙌🏽😂 I’m honestly so proud of you, my girl. You’ve worked so hard, and now you can officially give us a theological explanation for everything we do wrong! 😂😭
+
+But jokes aside, this is such a beautiful achievement, and I’m genuinely honoured to witness this chapter of your life. Your dedication, faith, intelligence, and perseverance have brought you this far, and you deserve every bit of this moment.
+
+Congratulations, my theologian! 🎓❤️ May God continue to guide you, enlarge your territory, and use you for even greater things. I’m so proud of you, and I can’t wait to celebrate you properly! Now please remember us little people when you become a professor. 😂❤️
+
+YOU DID IT, MASTER! 🎓🥂✨`
   },
   {
     from: "Jesse",
