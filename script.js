@@ -89,7 +89,8 @@ const FACES = [
   { file: "D-Linda2.jpeg", caption: "Linda" },
   { file: "mom.jpeg", caption: "Mom" },
   { file: "Feliscia.png", caption: "Feliscia" },
-  { file: "3.jpeg", caption: "Hope" },
+  // { file: "D-Janny.jpeg", caption: "Janny" },
+  { file: "Mwende.png", caption: "Mwende" },
   { file: "D-White.png", caption: "White" },
   { file: "dad.jpeg", caption: "Dad" },
   { file: "D-White1.jpeg", caption: "White" },
@@ -191,8 +192,13 @@ const MESSAGES = [
         Congratulations once again! Here’s to many more wins, beautiful opportunities and even greater achievements!!! I'm so proud of you Debbie!!!🥹🎓✨❤️🙏🏽`
   },
   {
-    from: "Erima",
-    message: `Ohhhh it's coming alright!`
+    from: `Yours in Love ❤️ 
+Erima`,
+    message: `Congratulations on your graduation, Debbie! 🎓🎉❤️ I’m so incredibly proud of you and all the hard work, sacrifices, and dedication that brought you to this beautiful moment. You’ve come such a long way, and you truly deserve to celebrate this amazing achievement.
+
+May this graduation mark the beginning of an even more beautiful chapter in your life, filled with exciting opportunities, big dreams, endless happiness, and success. Always believe in yourself and remember just how capable and amazing you are. Keep shining, keep growing, and never stop chasing the things that make your heart happy.
+
+Congratulations once again, Debbie! 🥂🎓💐 Here’s to you, your achievements, and all the wonderful things waiting for you ahead. I’m so happy for you! ❤️✨`
   },
   {
     from: "Kipsang",
