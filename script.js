@@ -75,7 +75,7 @@ const PHOTOS = [
 // -------- 6) PEOPLE WHO LOVE HER (sliding name banner) --------
 // One name per person, as many as you want.
 const NAMES_WHO_LOVE_HER = [
-  "Ash", "Jane", "Erima", "Jared", "Fabian", "Eunice", "Freddie", "Emily", "Feliscia", "Kipsang", "Martin", "White", "Anita", "Malkia", "Baraka", "Mwende", "Linda", "Bemmy", "Janet", "Jesse"
+  "Ash", "Jane", "Erima", "Jared", "Fabian", "Eunice", "Freddie", "Emily", "Feliscia", "Kipsang", "Martin", "White", "Anita", "Malkia", "Baraka", "Mwende", "Linda", "Hope", "Bemmy", "Janet", "Jesse"
 ];
 
 // -------- 7) HER PEOPLE (horizontal scroll: friends, selfies, parents) --------
@@ -264,7 +264,10 @@ Yours Forever (no literally😂),`
   },
   {
     from: "Jared",
-    message: `Ohhhh it's coming alright!`
+    message: `Dearest Debrah,
+Even as you approach this new chapter in life after graduation, we keep you in our prayers and that God may guide your steps so that you may become the best in your field
+I am thankful for you as a friend and also as a role model
+Ps: ukifungua kanisa yako please invite me to be the first congregant.`
   },
   {
     from: "Linda",
