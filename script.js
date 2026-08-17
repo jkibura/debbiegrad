@@ -149,16 +149,16 @@ const MESSAGES = [
 
     I join you to celebrate a graduation of one of the greats in our generation. My heartfelt congratulations to you for successfully going through this season. You have indeed been working through countless days and nights. In both good times and tumultuous times you kept the light of your candle shining. And here we are not only to praise the One who made the way for you, but also to commend you for doing that job that no one else could have done. Thank you for being faithful with this talent. Surely you are up for more. 
 
-    Cheers to the laughter you bring to the world, and the tears that you wipe off our faces; for the guidance and encouraging words and the humble correction you give. You are a wonderful person. Thank you for keeping on showing us that unmistakably unique Debbie that we have come to greatly love`
+    Cheers to the laughter you bring to the world, and the tears that you wipe off our faces; for the guidance and encouraging words and the humble correction you give. You are a wonderful person. Thank you for keeping on showing us that unmistakably unique Debbie that we have come to greatly love.`
   },
   {
     from: "From Fabian",
     message: `Congratulations on your graduation Debbie. I pray that your path beyond graduation may be decorated with blessings, strength and abundant grace! Keep going Debbie 🥳`
   },
   {
-    from: "Ash",
+    from: "Your fellow Park Bo-gum lover, Ash",
     message: `Debbie, it’s a joy to celebrate this far you’ve come and being part of the many people whom you inspire. Truly, your love for God is abundant and you are always striving to share the light to those around and beyond you.  That is truly inspiring. As you begin this new chapter, may the Lord give you strength to continue His works and encourage us as you always do in bible study.
-    Your fellow Park Bo-gum lover,`
+    `
   },
   {
     from: "Anita",
@@ -217,7 +217,7 @@ May this be the beginning of so much more. I love you, and I’m so grateful God
 Congratulations, my namesake.`
   },
   {
-    from: "Fred♥️",
+    from: "Yours Forever (no literally😂), Fred♥️",
     message: `To My Dearest Chinguuuu ♥️🎓
 
 My dearest Chinguuuu ,
@@ -251,8 +251,8 @@ And thank God, for letting our paths cross in the most unexpected way!❤️‍�
 
 Congratulations, my sweet Chinguuuu🌹
 
-I love you,
-Yours Forever (no literally😂),`
+I love you.
+`
   },
   {
     from: "With Love, Eunice ❤️",
