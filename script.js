@@ -62,7 +62,7 @@ const PHOTOS = [
   { file: "7.jpeg", caption: "Say cheese!📸" },
   { file: "D-black.jpeg", caption: "Black dress" },
   { file: "D-blue.jpeg", caption: "Rocking in jeans" },
-  { file: "D-polka1.jpeg", caption: "Polka dress?" },
+  { file: "D-polka1.jpeg", caption: "Floral dress?" },
   { file: "D-polka2.jpeg", caption: "That wink is Dangerous!🥺" },
   { file: "D-red.jpeg", caption: "Have I seen her on Disney?🤔" },
   { file: "D-smily.jpeg", caption: "oh, the smile!" },
