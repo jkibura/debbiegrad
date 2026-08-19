@@ -292,7 +292,7 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ================= STORIES (tap-through viewer) ================= */
 
-.stories { padding: 5rem 6vw 3rem; }
+.stories { padding: 5rem 2vw 3rem; }
 
 .stories-track {
   display: flex;
