@@ -279,9 +279,23 @@ Congratulations, my theologian! 🎓❤️ May God continue to guide you, enlarg
 
 YOU DID IT, MASTER! 🎓🥂✨`
   },
+  // {
+  //   from: "Jesse",
+  //   message: `Wacha nimalizie hapa niandike😭!`
+  // },
   {
     from: "Jesse",
-    message: `Wacha nimalizie hapa niandike😭!`
+    message: `Hey Debbie, 
+
+Congratulations!🥹🎉 
+I'm proud of you! I'm proud of all the work that you put in behind closed doors. The hours at night, the sacrifices, the allnighters, the tired mornings and all that. All the effort that we cannot see, that probably none of us know about.
+
+And above all that I'm proud of your character, the character that has nothing to do with the degrees and that no one can get from schooling. Your integrity, discipline and honesty. You're always in or out, not anything in between. I love your humour, your love, your ease of expression, your gentleness and so much so your love and zeal for God. 
+
+You welcomed me and made me feel comfortable in Beloved. You showed me that being myself is okay and it's cool. I've loved being your friend, and you're outright one of the jolliest and bubbliest people I know. I admire so much how you love and fellowship with God! And girl, every time you open your mouth I learn something about God.😭I appreciate you. I love your personality by the way😭. When you start yapping I put my phone down and just listen with smiles and chuckles playing on my face all through.
+
+I love you, and love being your friend.🥹❤️
+I want to see you now and decades from now. Because experiencing you is always pleasant, enriching and delightful. 🫶🏼`
   }
 ];
 
