@@ -300,7 +300,7 @@ button { font-family: inherit; cursor: pointer; }
   overflow-x: auto;
   padding-bottom: 0.5rem;
   justify-content: center;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .story-thumb {
