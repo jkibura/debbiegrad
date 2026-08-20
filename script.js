@@ -255,6 +255,17 @@ I love you.
 `
   },
   {
+    from: `Lots of Love 
+Jane.`,
+    message: `Debbie my baby,
+
+I’m genuinely so happy for you and so proud of the woman you’re Becoming 🥹❤️
+You’re not just a great friend, you’re such a beautiful soul, and I love how deeply you love Jesus. May this new chapter bring you closer to Him, closer to your purpose, and into rooms you never even imagined you’d enter. May God bless the work of your hands and give you the courage to keep becoming everything He created you to be.
+I pray that even in the moments when life feels uncertain, you’ll always recognise His voice guiding you. And honestly, I hope this friendship is one of those gifts God allows us to keep for a very, very long time. 🥹I want to see the career woman, the woman of faith, the wife🤭the mum🥰 the woman who becomes everything she prayed to be and I want to be there cheering you on through all of it. Isaiah 30:21 Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, ‘This is the way,walk in it.' 
+Congratulations graduate! 🥳 May this be the beginning of the beautiful things God has prepared for you 
+              `
+  },
+  {
     from: "With Love, Eunice ❤️",
     message: `Dearest Debbie congratulations on your well deserved success 🙌 now you have the power n all that it takes to win as many souls to the kingdom as possible do your thing ,wishing you the very best `
   },
